@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EncodeEarly</string>
+
+    <string name="touch">Touch\nMagicBand</string>
+    <string name="action_settings">Settings</string>
+    <string name="explanation">NFC is enabled</string>
+
+    <color name="gray">#999999</color>
+    <color name="white">#FFFFFF</color>
+</resources>
